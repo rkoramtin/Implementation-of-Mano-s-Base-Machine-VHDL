@@ -25,4 +25,6 @@ The Mano machine is a computer theoretically described by M. Morris Mano. It con
  auxReg9 <br>
 ### PIPE LINE RTL VIEW
 ![alt text](http://uupload.ir/files/c2ui_capture1.png)
+
+
  
